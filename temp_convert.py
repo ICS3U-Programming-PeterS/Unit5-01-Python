@@ -2,7 +2,7 @@
 
 # Created by: Peter Sobowale
 # Created on: Nov 24 2022
-# This program coverts the temp in celsius to fahrenheit.
+# This program converts the temp in celsius to fahrenheit.
 
 
 def calculate_fahrenheit():
